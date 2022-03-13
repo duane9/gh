@@ -1,6 +1,6 @@
 # gh
 
-Zsh plugin to view current repo on GitHub.
+Zsh plugin to view current repo on GitHub. Just type `gh`.
 
 ## Installation: Oh My Zsh
 
